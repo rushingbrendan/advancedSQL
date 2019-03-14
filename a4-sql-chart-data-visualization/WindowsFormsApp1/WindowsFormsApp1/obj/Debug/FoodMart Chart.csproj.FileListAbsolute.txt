@@ -1,0 +1,19 @@
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FoodMart Chart.csproj.GenerateResource.cache
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FoodMart Chart.csproj.CoreCompileInputs.cache
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\brushing0895\Downloads\asqla4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Foodmart.resources
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FoodMart Chart.csprojAssemblyReference.cache
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Foodmart.resources
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FoodMart Chart.csproj.GenerateResource.cache
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FoodMart Chart.csproj.CoreCompileInputs.cache
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\brushing0895\Downloads\a4-sql-chart-data-visualization\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
