@@ -48,7 +48,7 @@
             this.chart1.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(417, 82);
+            this.chart1.Location = new System.Drawing.Point(420, 109);
             this.chart1.MaximumSize = new System.Drawing.Size(574, 364);
             this.chart1.MinimumSize = new System.Drawing.Size(574, 364);
             this.chart1.Name = "chart1";
@@ -113,9 +113,9 @@
             // 
             // updateChartButton
             // 
-            this.updateChartButton.Location = new System.Drawing.Point(242, 478);
+            this.updateChartButton.Location = new System.Drawing.Point(44, 540);
             this.updateChartButton.Name = "updateChartButton";
-            this.updateChartButton.Size = new System.Drawing.Size(154, 42);
+            this.updateChartButton.Size = new System.Drawing.Size(160, 57);
             this.updateChartButton.TabIndex = 7;
             this.updateChartButton.Text = "Update Chart";
             this.updateChartButton.UseVisualStyleBackColor = true;
@@ -123,9 +123,9 @@
             // 
             // clearButton
             // 
-            this.clearButton.Location = new System.Drawing.Point(256, 102);
+            this.clearButton.Location = new System.Drawing.Point(245, 255);
             this.clearButton.Name = "clearButton";
-            this.clearButton.Size = new System.Drawing.Size(103, 307);
+            this.clearButton.Size = new System.Drawing.Size(131, 63);
             this.clearButton.TabIndex = 8;
             this.clearButton.Text = "Clear All Selections";
             this.clearButton.UseVisualStyleBackColor = true;
@@ -135,7 +135,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1054, 574);
+            this.ClientSize = new System.Drawing.Size(1059, 609);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.updateChartButton);
             this.Controls.Add(this.SalesCities);

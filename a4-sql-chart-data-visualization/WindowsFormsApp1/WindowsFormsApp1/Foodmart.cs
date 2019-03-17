@@ -83,20 +83,22 @@ namespace WindowsFormsApp1
             try
             {
                 updateListBoxes();
+
+                //default all list boxes to no items selected
+                ProductClass.SetSelected(0, false);
+                Products.SetSelected(0, false);
+                SalesCities.SetSelected(0, false);
+
+                //add title
+                chart1.Titles.Add("Foodmart 1998 Sales");
+                ApplicationFirstRun = false;
             }
             catch (Exception)
             {
 
             }
 
-            //default all list boxes to no items selected
-            ProductClass.SetSelected(0, false);
-            Products.SetSelected(0, false);
-            SalesCities.SetSelected(0, false);
-
-            //add title
-            chart1.Titles.Add("Foodmart 1998 Sales");
-            ApplicationFirstRun = false;            
+        
         }
 
         /// <summary>
@@ -184,7 +186,7 @@ namespace WindowsFormsApp1
             chart1.Series.Add(ChartSeriesName);            
             chart1.ChartAreas[0].AxisX.Interval = 1;   //show all months
             chart1.ChartAreas[0].AxisX.Title = "1998 Months";
-            chart1.ChartAreas[0].AxisY.Title = "Sales";
+            chart1.ChartAreas[0].AxisY.Title = "Sales ($)";
             chart1.ChartAreas[0].AxisY.LabelStyle.Format = "$ {}";
             chart1.ChartAreas[0].RecalculateAxesScale();
 
@@ -215,7 +217,7 @@ namespace WindowsFormsApp1
             bool itemAddedToString = false;
             string currentQueryString = "SELECT SUM(store_sales) FROM sales_fact_1998 INNER JOIN time_by_day ON sales_fact_1998.time_id = time_by_day.time_id INNER JOIN store ON sales_fact_1998.store_id = store.store_id  INNER JOIN product ON sales_fact_1998.product_id = product.product_id";
 
-            ChartSeriesName = "All Sales";
+            ChartSeriesName = "Sales($)";
 
             //Product class is selected
            if (ProductClass.SelectedIndex != -1)
